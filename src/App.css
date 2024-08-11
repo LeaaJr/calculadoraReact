@@ -1,7 +1,8 @@
 .App{
     height: 100vh;
     padding-top:10px;
-    background-color: #1b1b32;
+    background: rgb(142,141,158);
+    background: linear-gradient(137deg, rgba(142,141,158,1) 17%, rgba(60,60,69,1) 59%, rgba(0,11,13,1) 100%);
     font-family: Lato, sans-serif;
     display:flex;
     flex-wrap:wrap;
@@ -19,14 +20,14 @@
 }
 
 .freecodecamp-logo{
-    height: 20px;
+    height: 110px;
 }
 
 .contenedor-calculadora{
     width:400px;
     height:600px;
     padding:14;
-    background-color:#99c9ff;
+    background-color:#5a5e62;
     border-radius:20px;
     border:5px solid white;
 }

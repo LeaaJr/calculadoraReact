@@ -1,10 +1,10 @@
 import React from "react"
-import logofreecodecamp from '../imagenes/fcc_primary_large.png'
+import logoflmr from '../imagenes/logolmr-preview.png'
 
 function LogoFreecodecamp(){
     return(
         <div className='freecodecamp-logo-contenedor'>
-            <img className='freecodecamp-logo' src={logofreecodecamp}  alt='Logo de FreeCodeCamp'/>
+            <img className='freecodecamp-logo' src={logoflmr}  alt='Logo de FreeCodeCamp'/>
         </div>
         )
 }

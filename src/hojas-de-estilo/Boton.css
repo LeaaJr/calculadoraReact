@@ -6,8 +6,8 @@
     align-items:center;
     font-weight:bold;
     font-size:38px;
-    background-color:#1b1b32;
-    color:white;
+    background-color:#f1f1f5;
+    color:rgb(16, 16, 16);
     border-radius:25px;
     border: 2px solid white;
     margin:4px;
@@ -20,7 +20,7 @@
 }
 
 .operador{
-    background-color:#00471b;
+    background-color:#bebe14;
 }
 
 .operador:hover{
